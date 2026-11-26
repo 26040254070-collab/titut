@@ -1,0 +1,6 @@
+{
+  "name": "Detektif Jejak Digital: Misi Smart Citizen",
+  "description": "Permainan investigasi dan detektif jejak digital berbasis 3D untuk memahami karakteristik, dimensi kecerdasan, berpikir kritis, etika digital, serta penanganan hoaks sebagai Smart Citizen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
